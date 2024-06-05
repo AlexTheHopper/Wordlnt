@@ -7,7 +7,6 @@ from english_words import get_english_words_set
 ###Welcome to Wordln't!###
 ###This game will ask for the user to enter a word length and number of guesses###
 ###It will then run a Wordle type game with the input settings###
-
 #Retrieves list of potential words to use
 def getWords(wordLength):
 
